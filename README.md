@@ -32,10 +32,10 @@ How to Run
 
 How It Works
 
-* The program assumes a concrete mix ratio of 1:2:4 (Cement : Sand : Aggregate).
-* It calculates dry volume using the formula: Dry Volume = Wet Volume × 1.54.
-* The share of each material is calculated based on the ratio.
-* The total estimated cost is calculated using the user-provided prices.
+The program assumes a concrete mix ratio of 1:2:4 (Cement : Sand : Aggregate).
+It calculates dry volume using the formula: Dry Volume = Wet Volume × 1.54.
+The share of each material is calculated based on the ratio.
+The total estimated cost is calculated using the user-provided prices.
 
 Future Enhancements
 
